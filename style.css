@@ -1,0 +1,139 @@
+.container{
+    height:530px;
+    width:35%;
+    margin-left:32%;
+    background-color:pink;
+    margin-top:50px;
+    display:flex;
+    flex-direction:column;
+    
+}
+.heading{
+    height:60px;
+    width:100%;
+    background-color:red;
+    line-height:20px;
+    font-size:2em;
+    font-weight: bold;
+}
+.sub-heading{
+    height:60px;
+    width:100%;
+    line-height:20px;
+    text-align:center;
+    font-size:2em;
+    font-weight: bold;
+    color:red;
+
+
+}
+.image-container{
+    height:275px;
+    width:100%;
+    margin-top:10px;
+    display:flex;
+    flex-direction:row;
+
+}
+.image{
+    height:275px;
+    width:183px;
+    display:flex;
+    flex-direction:row;
+}
+.desc{
+    height:275px;
+    width:60%;
+    background-color: red;
+    margin-left:10%;
+    display:flex;
+    flex-direction:column;
+
+}
+.saribazar{
+    height:40px;
+    width:100%;
+    background-color: pink;
+    font-size: 1.8em;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    line-height:1px;
+
+
+}
+.per{
+    margin-top:5px;
+    height:40px;
+    width:100%;
+    font-size: 2em;
+    color:orange;
+    text-align: center;
+    font-weight: bold;
+    line-height: 1px;;
+
+}
+
+.dis{
+    height:40px;
+    width:100%;
+    font-size: 1.8em;
+    color:orange;
+    text-align: center;
+    font-weight: bold;
+    line-height: 1px;;
+
+}
+.color{
+    height:40px;
+    width:100%;
+    font-size: 1.8em;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    line-height: 1px;;
+
+}
+.button{
+    height:40px;
+    width:100%;
+    margin-top:8px;
+
+}
+.price{
+    height:40px;
+    margin-top:5px;
+    width:100%;
+    font-size: 1.8em;
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    line-height: 1px;
+}
+.contact{
+    height:40px;
+    margin-top:5px;
+    width:100%;
+    font-size: 1.8em;
+    font-weight: bold;
+    line-height: 1px;
+}
+.phone{
+    height:30px;
+    margin-top:5px;
+    width:100%;
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1px;
+}
+.email{
+    height:30px;
+    margin-top:5px;
+    width:100%;
+    font-size: 1em;
+    font-weight: bold;
+
+    
+}
+
+
